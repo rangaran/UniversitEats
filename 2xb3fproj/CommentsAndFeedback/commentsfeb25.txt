@@ -1,0 +1,15 @@
+Front End
+Scrum Leader
+Make sure other people have what they need 
+Project manager maintain overall project architecture
+Put roles in documentation
+Finished Goal + Additional implementation updates
+~2 iterations
+IEEE srs 1998 software specification document
+Access via McMaster library
+Industry standard
+Design document
+How prototype will be implemented
+classes, objects, UI, IEEE sdd 2009 
+UML Diagrams
+
